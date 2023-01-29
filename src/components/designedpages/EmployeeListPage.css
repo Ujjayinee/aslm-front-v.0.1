@@ -1,0 +1,26 @@
+.emplist .card{
+    margin-top: 2%;
+}
+.empsearch .search{
+    width: 40rem;
+    height: 2rem;
+    
+}
+.emplist .col-sm-6 .card-title{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.emplist .col-sm-6 .card-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+.emplist .col-sm-6 .card-des{
+    font-family: 'Times New Roman', Times, serif;
+    color: #AE275F;
+}
+.emplist .card{
+    height: 14rem;
+    border-color: #AE275F;
+    border-radius: 1rem;
+    
+}

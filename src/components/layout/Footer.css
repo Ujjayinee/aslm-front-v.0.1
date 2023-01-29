@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 5rem;
+    background-color:#AE275F;
+    color: white;
+    margin-top: 5rem;
+}
+.footer ul li{
+    list-style: none;
+    display: inline-block;
+}
+.footer .social a{
+    color: white;    
+    font-size: 1.5rem;
+    width: 2.5rem;
+    height:3rem;
+    line-height: 2.5rem;
+    display: inline-block;
+    text-align: center;
+    opacity: 0.65;
+    cursor: pointer;
+    margin-right: 1rem;
+    margin-top: 0.9rem;
+
+}
+
+.footer .social a:hover{
+    opacity: 0.9;
+    
+}
+.footer .para{
+    margin-right: -14rem;
+}
+.footer .para .privacy{
+    color: white;
+    display: inline-block;
+}
+.footer .para a{
+    text-decoration: none;
+    font-size: 1rem;
+    color: white;
+    
+}
+*/
+
+.nav .container-fluid{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 4rem;
+    background-color:#AE275F;
+    margin-top: -0.6rem;
+}
+.nav .container-fluid .navbar-brand{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+/*
+.container-fluid .collapse .navbar-nav{
+    margin-left: 35rem;
+}*/
+
+.nav .container-fluid .collapse  .nav-item .nav-link{
+    color: white;
+    margin-left: 2rem;
+    display: inline;
+    text-decoration: none;
+    position: inherit;
+  
+}

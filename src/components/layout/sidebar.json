@@ -1,0 +1,72 @@
+[
+    {
+        "title": "My Profile",
+        "icon": "bi-person-fill",
+        "path": "/myprofile"
+        
+    },
+    {
+        "title": "Bank Policy",
+        "icon": "bi-card-text",
+        "childrens": [
+            {
+                "title": "Cyber Security Policy",
+                "icon": "bi-laptop",
+                "path": "/csp"
+            },
+            {
+                "title": "Business Continuity Planning",
+                "icon": "bi-briefcase",
+                "path": "/bcp"
+            },
+            {
+                "title": "Dress Code",
+                "icon": "bi-person-vcard",
+                "path": "/dc"
+            },
+            {
+                "title": "Code Of Conduct & Ethics",
+                "icon": "bi-card-list",
+                "path":"/cce"
+            },
+            {
+                "title": "Corporate Governance",
+                "icon": "bi-journals",
+                "path":"/cg"
+            },
+            {
+                "title": "Gifting Poliicy",
+                "icon": "bi-gift",
+                "path":"/gp"
+            }
+        ]
+    },
+    {
+        "title": "Employee List",
+        "icon": "bi-people-fill",
+        "path": "/bankemployees"
+    },
+    {
+        "title": "Project Details",
+        "icon": "bi-briefcase-fill",
+        "childrens": [
+            {
+                "title": "Current Project",
+                "icon": "bi-briefcase",
+                "path": "/cp"
+            },
+            {
+                "title": "Stakeholders",
+                "icon": "bi-person",
+                "path": "/stake"
+            }
+        ]
+    },
+    {
+        "title": "Product Details",
+        "icon": "bi-cash-stack",
+        "path": "/products"
+        
+    }
+      
+]
